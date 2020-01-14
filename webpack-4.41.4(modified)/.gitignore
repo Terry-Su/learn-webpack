@@ -9,6 +9,6 @@
 .DS_Store
 *.log
 .idea
-.vscode
+# .vscode
 .eslintcache
 package-lock.json
